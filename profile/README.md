@@ -16,6 +16,7 @@ We meet on a Discord server, feel free to join
     <td align="center"><a href="https://github.com/jakeliny"><img src="https://avatars.githubusercontent.com/u/17316392?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jakeliny Gracielly</b></sub></a></td>
     <td align="center"><a href="https://github.com/jorge-lba"><img src="https://avatars.githubusercontent.com/u/56704254?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Alegretti</b></sub></a></td>
     <td align="center"><a href="https://github.com/gustavohenriquess"><img src="https://avatars.githubusercontent.com/u/9334778?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Henrique</b></sub></a></td>
+    <td align="center"><a href="https://github.com/LevyAM"><img src="https://avatars.githubusercontent.com/u/7527839?v=4" width="100px;" alt=""/><br /><sub><b>LevyAM</b></sub></a></td>
     <td align="center"><a href="https://github.com/Filipebarrosg"><img src="https://avatars.githubusercontent.com/u/74775211?v=4" width="100px;" alt=""/><br /><sub><b>Filipe Barros</b></sub></a></td>
   </tr>
 </table>
